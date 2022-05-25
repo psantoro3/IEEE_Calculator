@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ALTA Controls\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ALTA Controls\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\bin\Debug\net6.0\IEEEConvert.exe
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\bin\Debug\net6.0\IEEEConvert.deps.json
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\bin\Debug\net6.0\IEEEConvert.runtimeconfig.json
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\bin\Debug\net6.0\IEEEConvert.dll
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\bin\Debug\net6.0\IEEEConvert.pdb
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.csproj.AssemblyReference.cache
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.AssemblyInfoInputs.cache
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.AssemblyInfo.cs
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.csproj.CoreCompileInputs.cache
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.csproj.CopyComplete
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.dll
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\refint\IEEEConvert.dll
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.pdb
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\IEEEConvert.genruntimeconfig.cache
+C:\jobs\OfficePrograms\IEEEConverter\IEEEConvert\obj\Debug\net6.0\ref\IEEEConvert.dll
